@@ -8,4 +8,6 @@
 - Question 6 Answered Accurately: Partially -> 50%
 - Cumulative Accuracy for questions: 75.0%
 - Final Grade for Orientation is 1/3(On Time + Complete + Accuracy) = 91.6%
+
+
 [Solutions](https://github.com/Chem6004/orientation-to-python-FoleyLab/blob/master/Linear%20Variational%20Method-Solutions.pdf)
